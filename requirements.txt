@@ -1,0 +1,27 @@
+# Data handling
+pandas
+numpy
+datasets
+
+# Audio
+librosa
+soundfile
+
+# Video / images
+opencv-python
+
+# Deep learning
+torch
+torchvision
+torchaudio
+
+# Transformers / NLP
+transformers
+
+# Optional (for progress bars / logging)
+tqdm
+
+# Optional (for plotting / debugging)
+matplotlib
+seaborn
+scikit-learn
